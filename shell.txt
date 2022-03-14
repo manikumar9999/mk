@@ -1,0 +1,7 @@
+#! /bin/bash/
+pwd
+hostname
+cal -4
+date
+time
+uptime
